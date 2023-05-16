@@ -26,9 +26,11 @@ h4{
     font-size: 40px;
     font-family: monospace;
     text-align: center;
+    color:red;
 }
 .boxed {
    background-image:url(om.png);
+   background-size: cover;
    background-position: left;
    background-repeat: no-repeat;
     border: 10px solid red ;
